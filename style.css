@@ -195,6 +195,7 @@ h2 a{
 
 	h1 {
 		padding-bottom: 24px;
+		font-size: 16px;
 	}
 
 	h2 {
@@ -205,5 +206,10 @@ h2 a{
 	.bio {
 		margin-top: 60px;
 	}
+
+	.list-value {
+		font-size: 16px;
+	}
+	
 
 }
