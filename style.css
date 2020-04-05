@@ -27,12 +27,12 @@ a:hover{
 
 ::selection {
 	/* background: #EFF3F6; */
-	background: yellow;
+	background: #FFF06B;
 }
 
 ::-moz-selection {
 	/* background: #EFF3F6; */
-	background: yellow;
+	background:#FFF06B;
 }
 
 .container {
